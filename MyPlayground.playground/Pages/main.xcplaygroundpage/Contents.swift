@@ -77,7 +77,7 @@
 
 
 /*: Question 11
-### 11. Use the return value of that function in a boolean expression
+### 11. Use the return value of the function written for Question 10 in a boolean expression
 */
 // write your code here
 
