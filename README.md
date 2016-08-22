@@ -4,14 +4,10 @@
 > Try to be a rainbow in someone's cloud. -[Maya Angelou](https://en.wikipedia.org/wiki/Maya_Angelou)
 
 
-
 ## Learning Objectives
 
-* Be comfortable working on their own with what they learned from the following readme's:
-	* [Math reading](https://github.com/learn-co-curriculum/swift-math-readme)
-	* [Booleans & Operators](https://github.com/learn-co-curriculum/swift-booleans-readme)
-
-
+* Use comparison and logical operators to evaluate statements
+* Write and call functions that use math and various operators
 
 ## Instructions
 

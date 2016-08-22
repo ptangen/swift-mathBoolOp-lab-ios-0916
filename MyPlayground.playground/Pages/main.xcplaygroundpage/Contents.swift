@@ -10,9 +10,6 @@
  */
 
 
-/*:
- [Solution](solution)
- */
 // ❤️
 
 
@@ -101,6 +98,11 @@
 
 
 
+
+
+/*:
+ Checkout the solution branch - git co solution or git checkout solution and then scroll back down to this very spot to see a link that directs you to the solutions to the above questions.
+ */
 
 
 
